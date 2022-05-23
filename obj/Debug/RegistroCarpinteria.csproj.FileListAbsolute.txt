@@ -1,0 +1,13 @@
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\RegistroCarpinteria\bin\Debug\RegistroCarpinteria.exe.config
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\RegistroCarpinteria\bin\Debug\RegistroCarpinteria.exe
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\RegistroCarpinteria\bin\Debug\RegistroCarpinteria.pdb
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\RegistroCarpinteria\obj\Debug\RegistroCarpinteria.csproj.AssemblyReference.cache
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\RegistroCarpinteria\obj\Debug\RegistroCarpinteria.Formularios.FrmPrincipal.resources
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\RegistroCarpinteria\obj\Debug\RegistroCarpinteria.csproj.GenerateResource.cache
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\RegistroCarpinteria\obj\Debug\RegistroCarpinteria.csproj.CoreCompileInputs.cache
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\RegistroCarpinteria\obj\Debug\RegistroCarpinteria.exe
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\RegistroCarpinteria\obj\Debug\RegistroCarpinteria.pdb
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\RegistroCarpinteria\obj\Debug\RegistroCarpinteria.Properties.Resources.resources
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\RegistroCarpinteria\obj\Debug\RegistroCarpinteria.Formularios.FrmEmpleado.resources
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\RegistroCarpinteria\obj\Debug\RegistroCarpinteria.Formularios.FrmCliente.resources
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\RegistroCarpinteria\obj\Debug\RegistroCarpinteria.Formularios.FrmProveedor.resources
